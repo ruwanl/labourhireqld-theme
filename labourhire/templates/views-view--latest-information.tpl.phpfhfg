@@ -1,0 +1,10 @@
+views-view--latest-information.tpl.php
+<?php
+
+//drupal_set_message('<pre>' . print_r(array_keys($rows), TRUE) . '</pre>');
+
+//print_r($rows); //this works but prints each one as
+//
+
+?>
+endoline
