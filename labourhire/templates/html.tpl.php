@@ -54,7 +54,7 @@ if (drupal_is_front_page()) {
 
 //if (drupal_is_front_page()) {
 
-$themepath = drupal_get_path('theme','labourhire');
+$themepath = base_path() . path_to_theme();
 $jspath = $themepath . '/js/jquery-1.9.min.js';
 $owlpath = $themepath . '/js/owl.carousel.min.js';
 
