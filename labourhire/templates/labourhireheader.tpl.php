@@ -109,7 +109,7 @@ if($page['labourhirealerts']){ print render($page['labourhirealerts']);} ?>
 
      
         <a href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>" rel="home" class="header__logo" id="logo">
-          <img src="<?php print '/' . path_to_theme(); ?>/qg-coa-white.png' ?>" alt="<?php print t('Home'); ?>" class="header__logo-image" style="margin-top:-50px;" />
+          <img src="<?php print '/' . path_to_theme(); ?>/qg-coa-white.png" alt="<?php print t('Home'); ?>" class="header__logo-image" style="margin-top:-50px;" />
 <br><h4 class="header__site-slogan" style=""><?php print $site_name;?></h4>
         </a>
           
