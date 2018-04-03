@@ -61,7 +61,7 @@ $owlpath = $themepath . '/js/owl.carousel.min.js';
 ?>
 
 <script src="https://code.jquery.com/jquery-1.10.1.js" integrity="sha256-663tSdtipgBgyqJXfypOwf9ocmvECGG8Zdl3q+tk+n0=" crossorigin="anonymous"></script>
-<script src="<?php print base_path() . path_to_theme(); ?>/js/owl.carousel.min.js"></script>
+<script src="<?php print base_path() . path_to_theme(); ?>/js/owl.carousel.min.js" type="application/javascript"></script>
 	
 <script> $113 = jQuery.noConflict();</script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
